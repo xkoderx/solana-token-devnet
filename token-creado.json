@@ -1,0 +1,18 @@
+{
+  "name": "Claudia Sheinbaum",
+  "symbol": "SHNBM",
+  "decimals": 6,
+  "supply": 1000000,
+  "mint": "3RiJPyN6FpsSP1vEmqPeHypR9pRukqKwXt96iGtoLQ2A",
+  "wallet": "CcRdUfbRZPqxyXAn72m6MfvxXUbiDw61c6EvNyU4NXW3",
+  "tokenAccount": "6j3VRCgUzBtJGqtZDotj5vYLt5ws3PH26aHUR4vKGprP",
+  "createMintTx": "39EhoYfCiDarSas9uQwYbM6ZM9TuZ7CdXDKmJkKJXxGez8wgKfNstnyAfSByZTJ6JH1UfPne461w8pNcdofPhcKk",
+  "mintTx": "J9e3DNrBdU3vGXTWBHBhxvXERpTXr33ReQVQNKhiXkvgYj2n5H8dSRjzVspoX2ejANkQeSP8UcojAeyTVuLCQwf",
+  "explorer": "https://explorer.solana.com/address/3RiJPyN6FpsSP1vEmqPeHypR9pRukqKwXt96iGtoLQ2A?cluster=devnet",
+  "solscan": "https://solscan.io/token/3RiJPyN6FpsSP1vEmqPeHypR9pRukqKwXt96iGtoLQ2A?cluster=devnet",
+  "metadataUri": "https://muse.ai/files/1475798355622645/1013746574344621/50iwts46qnunoy5wfsy8vcgs/metadata.json",
+  "metadataAccount": "HQUYixzfp9NYwHgDL8HCC27P5hL1mfvtd6MdKDM4TFEA",
+  "metadataTx": "4xQqAmu5t74KHieHnEt1jFYbThRQNq4bdDTFgYjE9rCYGisaH1JoUX7RyxnfT468PxqhDm1Q3nqLuoditjiqQU9m",
+  "image": "https://muse.ai/files/1475798355622645/2118129228772962/dunazl5sezjbo6ogizljng9u/logo-shnbm.png",
+  "metadataExpires": "2026-11-15T00:55:37Z"
+}

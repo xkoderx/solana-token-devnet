@@ -1,0 +1,17 @@
+{
+  "name": "Claudia Sheinbaum",
+  "symbol": "SHNBM",
+  "description": "Token de prueba en Solana devnet, creado con fines educativos. Sin valor real, sin afiliación oficial.",
+  "image": "https://muse.ai/files/1475798355622645/2118129228772962/dunazl5sezjbo6ogizljng9u/logo-shnbm.png",
+  "decimals": 6,
+  "attributes": [
+    {"trait_type": "Red", "value": "Solana Devnet"},
+    {"trait_type": "Tipo", "value": "Prueba educativa"}
+  ],
+  "properties": {
+    "files": [
+      {"uri": "https://muse.ai/files/1475798355622645/2118129228772962/dunazl5sezjbo6ogizljng9u/logo-shnbm.png", "type": "image/png"}
+    ],
+    "category": "image"
+  }
+}
